@@ -1,0 +1,161 @@
+@font-face { font-family: 'black demon'; 
+src: url(https://external-media.spacehey.net/media/sHZYEr7XILWwXWOmZeEx9BNcSOnYYmnhKxB2NwuTqkok=/https://dl.dropbox.com/s/u1ht7rk1oytkspl/Black%20Demon.ttf); 
+}
+@font-face { font-family: 'mcr'; 
+src: url(https://external-media.spacehey.net/media/s-Q6zzUjSoxw7pJjVtdghYdKnTSr78LDWl-cuKRVveeI=/https://dl.dropbox.com/s/vlwjpiu7bq4zy7j/my_chemical_romance.ttf); 
+}
+@font-face { font-family: 'goth stencil'; 
+src: url(https://external-media.spacehey.net/media/sNFk4i5b3xm5OvP1GIzqiAAERXMF6Bs9tvJzqM1aEPnY=/https://dl.dropbox.com/s/lix8jq02xbdc7xs/GothStencil_Premium.ttf); 
+}
+
+body{
+background: url(https://i.pinimg.com/736x/24/1a/fc/241afc98bc194e1b0d5d1e96f511590c.jpg)repeat fixed;
+background-size: cover;
+font-family: "goth stencil";
+font-size: 120%;
+text-transformation: lowercase;
+}
+
+.menu{
+  text-align: center;
+  background-color: #e5d7c4;
+  box-shadow:0 0 30px #a6bc36;
+  margin: 0 11px;
+  width: 140px;
+  margin-left:12px;
+  padding-left:0;
+  margin-top: 35px;
+  box-shadow:
+  inset 5px 0 10px rgba(0,0,0,0.4),
+  inset 0 -5px 10px rgba(0,0,0,0.4);
+}
+
+.titulo{
+  text-align:center;
+  font-size:24px;
+  border-bottom:1px solid #48484C;
+}
+
+.menu li {
+  color: black;
+  list-style: none; 
+  padding: 5px;
+  padding-left:10px;
+  text-align:left;
+}
+
+.menu ul{
+  margin:0;
+  padding:0;
+}
+
+.menu a{
+  color: #060409;
+  text-decoration:none;
+  font-size: 20px;
+  display:block;
+  text-align: left;
+  
+}
+
+.menu a:hover{
+  color: #5a3598;
+  text-shadow: 0px 0px 10px #5a3598;
+  background-color: #c5d046;
+}
+
+  .banner{
+  width:80%;
+  height:120px;    
+  background-image: url("https://i.pinimg.com/736x/3a/81/86/3a8186c3f547e1da9d4a901268a21dcb.jpg");
+margin:auto;
+}
+
+
+.cubo1{
+  width:160px;          /* ancho */
+  height:500px;         /* alto */
+ background-image: url("https://i.pinimg.com/1200x/5b/32/86/5b32868665a25eee27a54d7bc344b21c.jpg");
+
+  position:absolute;
+  top:150px;
+  left:10px;
+   z-index:-1; 
+}
+
+.cubo2{
+  width:900px;
+  height:500px;
+ background-image: url("https://i.pinimg.com/1200x/5b/32/86/5b32868665a25eee27a54d7bc344b21c.jpg");
+
+  position:absolute;
+  top:150px;
+  left:190px;
+   z-index:-1; 
+}
+
+.cubo3{
+  width:230px;          
+  height:500px;         
+ background-image: url("https://i.pinimg.com/1200x/5b/32/86/5b32868665a25eee27a54d7bc344b21c.jpg");
+
+  position:absolute;
+  top:150px;
+  left:1110px;
+   z-index:-1; 
+}
+
+.cubo4{
+  width:872px;          /* ancho */
+  height:450px;         /* alto */
+ background-image: url("https://i.pinimg.com/736x/f2/c0/33/f2c0337cf660267fe59695c1c95ba07b.jpg");
+
+  position:absolute;
+  top:165px;
+  left:205px;
+   z-index:-1; 
+}
+
+.gif-1{
+  position:absolute;
+  top:15px;
+  left:150px;
+}
+
+
+::-webkit-scrollbar{
+  width:10px;
+}
+
+::-webkit-scrollbar-track{
+  background:#a6bc36;
+  box-shadow:
+  inset 5px 0 5px rgba(0,0,0,0.2),
+  inset 0 -5px 5px rgba(0,0,0,0.2);
+}
+
+::-webkit-scrollbar-thumb{
+  background:#51375b;
+  border-radius:20px;
+}
+
+::-webkit-scrollbar-thumb:hover{
+  background:#5a3598;
+  box-shadow:
+  inset 5px 0 10px rgba(0,0,0,0.4),
+  inset 0 -5px 10px rgba(0,0,0,0.4);
+}
+
+.texto1{
+  width:600px;
+  background:#e5d7c4;
+  padding:15px;
+  margin:20px;
+  position:absolute;
+  top:155px;
+  left:195px;
+  font-size:16px;
+   box-shadow:
+  inset 5px 0 10px rgba(0,0,0,0.4),
+  inset 0 -5px 10px rgba(0,0,0,0.4);
+}
