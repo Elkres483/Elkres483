@@ -47,9 +47,9 @@ var currentPlaylist = "90s HITS";
  * You can also delete the themes that you don't want.
 */
 var myThemes = {
-    "DEFAULT": 'violet',
+    "DEFAULT": 'default',
     "SILVER": 'silver',
-    "VIOLET": "default",
+    "VIOLET": "violet",
     "MINIMAL": "minimal",
     "RED GRUNGE": "red-grunge",
     //"ANOTHER THEME": 'another-theme',
@@ -60,7 +60,7 @@ var myThemes = {
  * [4. CURRENT THEME]
  * Set the theme of your player writing its name below.
  */
-var currentTheme = "DEFAULT";
+var currentTheme = "VIOLET";
 
 
 // ===== END OF CONFIGURATION =====
@@ -356,3 +356,4 @@ function onPlayerStateChange(event) {
     statusLabelInterval = setInterval(updateStatusLabel, 100);
 
 }
+
