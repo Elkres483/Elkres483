@@ -47,9 +47,9 @@ var currentPlaylist = "90s HITS";
  * You can also delete the themes that you don't want.
 */
 var myThemes = {
-    "DEFAULT": 'default',
+    "DEFAULT": 'violet',
     "SILVER": 'silver',
-    "VIOLET": "violet",
+    "VIOLET": "default",
     "MINIMAL": "minimal",
     "RED GRUNGE": "red-grunge",
     //"ANOTHER THEME": 'another-theme',
@@ -354,4 +354,5 @@ function onPlayerStateChange(event) {
     updateSongLabel();
     clearInterval(statusLabelInterval);
     statusLabelInterval = setInterval(updateStatusLabel, 100);
+
 }
