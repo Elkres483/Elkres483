@@ -160,6 +160,12 @@ margin:auto;
   inset 0 -5px 10px rgba(0,0,0,0.4);
 }
 
+.player{
+  border:none;
+  position:absolute;
+  left:195px;
+  top:200px;
+}
 
 
 
