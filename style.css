@@ -58,7 +58,7 @@ text-transformation: lowercase;
   font-size: 15px;
   display:block;
   text-align: left;
-  
+  font-weight: bold;
 }
 
 .menu a:hover{
@@ -157,7 +157,7 @@ margin:auto;
   position:absolute;
   top:155px;
   left:195px;
-  font-size:12px;
+  font-size:11px;
   font-family: "shonen punk custom";
   line-height: 2;
   box-shadow:
