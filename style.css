@@ -74,7 +74,7 @@ margin:auto;
 
 .cubo1{
   width:160px;          /* ancho */
-  height:500px;         /* alto */
+  height:900px;         /* alto */
  background-image: url("https://i.pinimg.com/1200x/5b/32/86/5b32868665a25eee27a54d7bc344b21c.jpg");
 
   position:absolute;
@@ -85,7 +85,7 @@ margin:auto;
 
 .cubo2{
   width:900px;
-  height:500px;
+  height:900px;
  background-image: url("https://i.pinimg.com/1200x/5b/32/86/5b32868665a25eee27a54d7bc344b21c.jpg");
 
   position:absolute;
@@ -96,7 +96,7 @@ margin:auto;
 
 .cubo3{
   width:230px;          
-  height:500px;         
+  height:900px;         
  background-image: url("https://i.pinimg.com/1200x/5b/32/86/5b32868665a25eee27a54d7bc344b21c.jpg");
 
   position:absolute;
@@ -107,7 +107,7 @@ margin:auto;
 
 .cubo4{
   width:872px;          /* ancho */
-  height:450px;         /* alto */
+  height:885px;         /* alto */
  background-image: url("https://i.pinimg.com/736x/f2/c0/33/f2c0337cf660267fe59695c1c95ba07b.jpg");
 
   position:absolute;
