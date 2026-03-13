@@ -155,14 +155,12 @@ margin:auto;
   top:155px;
   left:195px;
   font-size:16px;
+   font-family:'VT323', monospace;
    box-shadow:
   inset 5px 0 10px rgba(0,0,0,0.4),
   inset 0 -5px 10px rgba(0,0,0,0.4);
 }
 
-.texto1 a{
-  font-family:'VT323', monospace;
-}
 
 .player{
   border:none;
