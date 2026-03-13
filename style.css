@@ -177,9 +177,10 @@ margin:auto;
 
 .comentarios{
 width:250px;
-height:600px;
+height:400px;
 margin:auto;
-margin-top:40px;
+margin-left:500px;
+margin-top:100px;
 padding:20px;
 border:3px solid hotpink;
 background:black;
