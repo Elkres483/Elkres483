@@ -1,6 +1,9 @@
 @font-face { font-family: 'shonen punk'; 
 src: url(https://files.catbox.moe/bo5dsw.ttf); 
 }
+@font-face { font-family: 'shonen punk custom'; 
+src: url(https://files.catbox.moe/lyjkef.ttf); 
+}
 @font-face { font-family: 'mcr'; 
 src: url(https://external-media.spacehey.net/media/s-Q6zzUjSoxw7pJjVtdghYdKnTSr78LDWl-cuKRVveeI=/https://dl.dropbox.com/s/vlwjpiu7bq4zy7j/my_chemical_romance.ttf); 
 }
@@ -155,8 +158,8 @@ margin:auto;
   top:155px;
   left:195px;
   font-size:16px;
-   font-family:'VT323', monospace;
-   box-shadow:
+  font-family: "shonen punk custom";
+  box-shadow:
   inset 5px 0 10px rgba(0,0,0,0.4),
   inset 0 -5px 10px rgba(0,0,0,0.4);
 }
