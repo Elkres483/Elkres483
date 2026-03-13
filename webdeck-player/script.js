@@ -23,7 +23,7 @@
  * You can also delete the lists that you don't want.
 */
 var myPlaylists = {
-    "Punk Rock": 'PLiTcEYNa51fPdIB-9zXW0BLD-Av9MhMLr&si',
+    "Punk Rock": 'PLiTcEYNa51fPdIB-9zXW0BLD-Av9MhMLr',
     "00s HITS": 'PL69714D95619E327E',
     "VAPORWAVE": 'PLSChV4T8EDb9TZsLO23Tsj6-UUyAXtGg5',
     //"ANOTHER PLAYLIST": 'PLZyqOyXxaVETqpHhT_c5GPmAPzhJpJ5K7',
@@ -356,5 +356,6 @@ function onPlayerStateChange(event) {
     statusLabelInterval = setInterval(updateStatusLabel, 100);
 
 }
+
 
 
