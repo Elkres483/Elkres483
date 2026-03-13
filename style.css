@@ -175,5 +175,10 @@ margin:auto;
 }
 
 
-
+.comentarios{
+background:url("https://i.imgur.com/Z6XbK8X.gif");
+border:4px double purple;
+padding:25px;
+margin-top:40px;
+}
 
