@@ -176,13 +176,11 @@ margin:auto;
 
 
 .comentarios{
-background:url("https://i.imgur.com/Z6XbK8X.gif");
-border:4px double purple;
-padding:25px;
+width:650px;
+margin:auto;
 margin-top:40px;
-left:905px;
-top:350px;
-width:200px;          /* ancho */
-height:105px;         /* alto */
+padding:20px;
+border:3px solid hotpink;
+background:black;
 }
 
