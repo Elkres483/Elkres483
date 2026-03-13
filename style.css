@@ -1,5 +1,5 @@
-@font-face { font-family: 'black demon'; 
-src: url(https://external-media.spacehey.net/media/sHZYEr7XILWwXWOmZeEx9BNcSOnYYmnhKxB2NwuTqkok=/https://dl.dropbox.com/s/u1ht7rk1oytkspl/Black%20Demon.ttf); 
+@font-face { font-family: 'shonen punk'; 
+src: url(https://files.catbox.moe/bo5dsw.ttf); 
 }
 @font-face { font-family: 'mcr'; 
 src: url(https://external-media.spacehey.net/media/s-Q6zzUjSoxw7pJjVtdghYdKnTSr78LDWl-cuKRVveeI=/https://dl.dropbox.com/s/vlwjpiu7bq4zy7j/my_chemical_romance.ttf); 
@@ -11,7 +11,7 @@ src: url(https://external-media.spacehey.net/media/sNFk4i5b3xm5OvP1GIzqiAAERXMF6
 body{
 background: url(https://i.pinimg.com/736x/24/1a/fc/241afc98bc194e1b0d5d1e96f511590c.jpg)repeat fixed;
 background-size: cover;
-font-family: "goth stencil";
+font-family: "shonen punk";
 font-size: 120%;
 text-transformation: lowercase;
 }
