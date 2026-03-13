@@ -157,8 +157,9 @@ margin:auto;
   position:absolute;
   top:155px;
   left:195px;
-  font-size:16px;
+  font-size:10px;
   font-family: "shonen punk custom";
+  line-height: 2;
   box-shadow:
   inset 5px 0 10px rgba(0,0,0,0.4),
   inset 0 -5px 10px rgba(0,0,0,0.4);
