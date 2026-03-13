@@ -149,7 +149,6 @@ margin:auto;
 .texto1{
   width:570px;
   background:#e5d7c4;
-  font-family: "goth stencil"
   padding:15px;
   margin:20px;
   position:absolute;
@@ -160,6 +159,10 @@ margin:auto;
   inset 5px 0 10px rgba(0,0,0,0.4),
   inset 0 -5px 10px rgba(0,0,0,0.4);
 }
+
+.texto1 a{
+  font-family: "goth stencil"
+
 
 .player{
   border:none;
