@@ -98,17 +98,6 @@ margin:auto;
    z-index:-1; 
 }
 
-.cubo3{
-  width:230px;          
-  height:900px;         
- background-image: url("https://i.pinimg.com/1200x/5b/32/86/5b32868665a25eee27a54d7bc344b21c.jpg");
-
-  position:absolute;
-  top:150px;
-  left:1110px;
-   z-index:-1; 
-}
-
 .cubo4{
   width:872px;          /* ancho */
   height:885px;         /* alto */
